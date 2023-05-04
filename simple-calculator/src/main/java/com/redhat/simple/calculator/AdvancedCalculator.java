@@ -1,6 +1,6 @@
 package com.redhat.simple.calculator;
 
-public final class AdvancedCalculator {
+public final class AdvancedCalculator extends Calculator {
     static final double PI = 3.14;
     static final double LOW_DISCOUNT_AMOUNT = 0.10;
     static final double MID_DISCOUNT_AMOUNT = 0.15;
